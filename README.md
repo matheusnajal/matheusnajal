@@ -1,4 +1,4 @@
-<h2 style="color:blue;">About Me</h2>
+# Hi, I'm Matheus!
 
 ## About Me
 👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
