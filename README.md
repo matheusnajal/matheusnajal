@@ -1,6 +1,7 @@
-<div align="center">
-  <a href="https://github.com/matheusnajal">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+### Hi, I'm Matheus!
+👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
+💡 Recording videos about my personal and college projects on [YouTube](https://www.youtube.com/@matheusnajal) <br/>
+💭 Currently learning about data analytics at [Alura](https://www.alura.com.br/)!<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=algolia)
