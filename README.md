@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=algolia&line_height=20)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&theme=algolia)
 
 ## Solved Exercises
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia)](https://github.com/matheusnajal/Beecrowd)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=LeetCode&theme=algolia)](https://github.com/matheusnajal/LeetCode)
