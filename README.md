@@ -5,7 +5,7 @@
 👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
 💡 Recording videos about my personal and college projects on [YouTube](https://www.youtube.com/@matheusnajal) <br/>
 🎮 Learning 3D modeling and game development at alura [Alura](https://www.alura.com.br/)!<br/>
-💭 Learning C++ and Python at udemy [Udemy](https://www.udemy.com/)
+💭 Learning C++ and Python at udemy [Udemy](https://www.udemy.com/)!
 
 ## Social Media
 
