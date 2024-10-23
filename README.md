@@ -4,12 +4,15 @@
 
 👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
 💡 Recording videos about my personal and college projects on [YouTube](https://www.youtube.com/@matheusnajal)! <br/>
-🎮 Learning 3D modeling and game development at alura [Alura](https://www.alura.com.br/)!<br/>
-💭 Learning C++ and Python at udemy [Udemy](https://www.udemy.com/)!
+🎮 Learning 3D modeling and game development at [Alura](https://www.alura.com.br/)!<br/>
+💭 Learning C++ and Python at [Udemy](https://www.udemy.com/)!
 
 ## Social Media
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matheusnajal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusnajal/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/matheusnajal)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matheusnajal)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusnajal/)
+[![X](https://img.shields.io/badge/X%20%20%20%20%20%20%20%20-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/matheusnajal)
 
 ## Tech Stack
 
