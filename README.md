@@ -10,16 +10,16 @@
 ## Social Media
 
 <a href="https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 10px;"/>
 </a>
 <a href="https://www.youtube.com/@matheusnajal">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="height: 10px;"/>
 </a>
 <a href="https://www.instagram.com/matheusnajal/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 10px;"/>
 </a>
 <a href="https://x.com/matheusnajal">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="height: 10px;"/>
 </a>
 
 ## Tech Stack
