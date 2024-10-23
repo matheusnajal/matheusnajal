@@ -9,18 +9,7 @@
 
 ## Social Media
 
-<a href="https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 10px;"/>
-</a>
-<a href="https://www.youtube.com/@matheusnajal">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="height: 10px;"/>
-</a>
-<a href="https://www.instagram.com/matheusnajal/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 10px;"/>
-</a>
-<a href="https://x.com/matheusnajal">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="height: 10px;"/>
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia)](https://github.com/matheusnajal/Beecrowd) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=LeetCode&theme=algolia)](https://github.com/matheusnajal/LeetCode) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Depths-of-the-Mind&theme=algolia)](https://github.com/matheusnajal/Depths-of-the-Mind.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=CPlusPlus-Training&theme=algolia)](https://github.com/matheusnajal/CPlusPlus-Training.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Blender-Training&theme=algolia)](https://github.com/matheusnajal/Blender-Training.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=100-Days-Of-Code&theme=algolia)](https://github.com/matheusnajal/100-Days-Of-Code.git)
 
 ## Tech Stack
 
