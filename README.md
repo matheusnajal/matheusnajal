@@ -9,7 +9,12 @@
 
 ## Social Media
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia)](https://github.com/matheusnajal/Beecrowd) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=LeetCode&theme=algolia)](https://github.com/matheusnajal/LeetCode) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Depths-of-the-Mind&theme=algolia)](https://github.com/matheusnajal/Depths-of-the-Mind.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=CPlusPlus-Training&theme=algolia)](https://github.com/matheusnajal/CPlusPlus-Training.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Blender-Training&theme=algolia)](https://github.com/matheusnajal/Blender-Training.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=100-Days-Of-Code&theme=algolia)](https://github.com/matheusnajal/100-Days-Of-Code.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/Beecrowd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=LeetCode&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/LeetCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Depths-of-the-Mind&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/Depths-of-the-Mind)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=CPlusPlus-Training&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/CPlusPlus-Training)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Blender-Training&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/Blender-Training)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=100-Days-Of-Code&theme=algolia&cache_bust=true)](https://github.com/matheusnajal/100-Days-Of-Code)
 
 ## Tech Stack
 
