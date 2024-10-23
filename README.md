@@ -9,10 +9,18 @@
 
 ## Social Media
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matheusnajal)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusnajal/)
-[![X](https://img.shields.io/badge/X%20%20%20%20%20%20%20%20-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/matheusnajal)
+<a href="https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"/>
+</a>
+<a href="https://www.youtube.com/@matheusnajal">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="height: 40px;"/>
+</a>
+<a href="https://www.instagram.com/matheusnajal/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height: 40px;"/>
+</a>
+<a href="https://x.com/matheusnajal">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" style="height: 40px;"/>
+</a>
 
 ## Tech Stack
 
