@@ -17,7 +17,7 @@
 
 ## Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=algolia&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&theme=algolia)
+![](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=algolia&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&theme=algolia&card_width=500px)
 
 ## Main Repositories
 
