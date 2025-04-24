@@ -4,7 +4,7 @@
 
 👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
 💡 Recording videos about my personal and college projects on [YouTube](https://www.youtube.com/@matheusnajal)! <br/>
-🎮 Learning 2D/3D game development, Data Science, Machine Learning, DL, NLP
+🎮 Learning 2D/3D game development, Data Science, Machine Learning, DL & NLP
 
 ## Social Media
 
