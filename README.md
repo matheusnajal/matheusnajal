@@ -22,3 +22,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Depths-of-the-Mind&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/Depths-of-the-Mind)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=100-Days-Of-Code&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/100-Days-Of-Code)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/Beecrowd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=A-Vinganca-de-Blaid-2D&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/A-Vinganca-de-Blaid-2D)
