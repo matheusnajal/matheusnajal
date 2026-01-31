@@ -1,25 +1,41 @@
-# Hi, I'm Matheus!
+![header](https://capsule-render.vercel.app/api?type=wave&color=E09F3E&height=300&section=header&fontSize=90)
 
-## About Me
 
-👩🏻‍🎓 Studying Computer Science at the Universidade de Fortaleza, Brazil <br/>
-🎮 Learning 2D/3D game development <br/>
-💻 Learning Data Science, Machine Learning, DL & NLP
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=1000&color=FFF3B0&center=true&vCenter=true&width=800&height=150&lines=Hello!+My+name+is+Matheus;Bachelor+in+Computer+Science;Currently+a+Master%E2%80%99s+student;Be+Welcome!" />
+</p>
 
-## Social Media
+<div align="center">
+  <h1 style="color: #FFF3B0;">Tech Stack</h1>
+  <img src="https://skillicons.dev/icons?i=py,r,pytorch,sklearn,cs,dotnet,mysql,godot,unity,git,github,latex" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-najal-cruz-ba20b3296/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@matheusnajal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheusnajal/)
+<br>
 
-## Tech Stack
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=matheusnajal&theme=dark&background=FFF3B0&border=335C67&stroke=335C67&ring=E09F3E&fire=9E2A2B&currStreakNum=9E2A2B&sideNums=335C67&currStreakLabel=335C67&sideLabels=335C67&dates=335C67&card_width=1000&card_height=400" alt="GitHub Streak" width="100%" />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
-## Statistics
+<div align="center">
+  <h1 style="color: #FFF3B0;">Social Media</h1>
+  
+  <a href="https://instagram.com/matheusnajal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://x.com/matheusnajal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/in/matheus-najal-cruz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:matheusnajalk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&theme=algolia&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&theme=algolia&card_width=330px)
+<br>
+<br>
 
-## Main Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Depths-of-the-Mind&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/Depths-of-the-Mind)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=100-Days-Of-Code&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/100-Days-Of-Code)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Beecrowd&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/Beecrowd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=A-Vinganca-de-Blaid-2D&theme=algolia&cache_bust=${Math.random()})](https://github.com/matheusnajal/A-Vinganca-de-Blaid-2D)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=335C67&height=300&section=footer&reversal=true&fontSize=90)
