@@ -27,16 +27,8 @@
 
 <div align="center">
   <h1 style="color: #FFFFFF;">Social Media</h1>
-  <a href="https://www.linkedin.com/in/matheus-najal-cruz/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:matheusnajalk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/matheusnajal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://mnc-blog.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/MyBlog-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/matheus-najal-cruz/" target="_blank"><img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:matheusnajalk@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/matheusnajal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://mnc-blog.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MyBlog-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
