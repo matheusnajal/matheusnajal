@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/f4/ad/c2/f4adc2c1471e3166d2d757ff1720904d.gif" alt="Banner Space" width="100%" style="border: 2px solid white; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Hello!+My+name+is+Matheus;Bachelor+in+Computer+Science;Be+Welcome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Hello!+My+name+is+Matheus;Be+Welcome!" />
 </p>
 
 <div align="center">
