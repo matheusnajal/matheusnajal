@@ -40,22 +40,3 @@ Dedicated to Data Science and Analytics, with a strong focus on developing predi
 <img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&amp;logo=latex&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white"/>
-
-<br>
-
-### GitHub Analytics
-
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF) |
-
-<br>
-
-### Featured Projects
-
-| Project | Project |
-| --- | --- |
-| [![Data Science Challenges](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=data-science-challenges&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/data-science-challenges) | [![Simulador de Lente Gravitacional](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Simulador-de-Lente-Gravitacional&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Simulador-de-Lente-Gravitacional) |
-| [![Plataforma de Inteligência Comercial](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Plataforma-de-Inteligencia-Comercial&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Plataforma-de-Inteligencia-Comercial) | [![Plataforma Analítica de Potencial Solar](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Plataforma-Analitica-de-Potencial-Solar&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Plataforma-Analitica-de-Potencial-Solar) |
-
-<br>
