@@ -1,27 +1,61 @@
-<img src="https://i.pinimg.com/originals/f4/ad/c2/f4adc2c1471e3166d2d757ff1720904d.gif" alt="Banner Space" width="100%" style="border: 2px solid white; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);">
+<img src="https://i.pinimg.com/1200x/25/63/cf/2563cf26eb37a3148400e3c5f7fcc93a.jpg" alt="Banner Space" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Hello!+My+name+is+Matheus;Be+Welcome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=35&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=150&amp;lines=Hello!+I+am+Matheus;Data+Scientist+%26+Analyst;Transforming+data+into+solutions" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
+Dedicated to Data Science and Analytics, with a strong focus on developing predictive models, performing exploratory analysis, and transforming raw data into strategic solutions.
+
+* **Education:** B.S. in Computer Science | MBA Candidate in Data Science & Analytics
+* **Focus:** Applying mathematical foundations and Artificial Intelligence to solve complex analytical problems
+* **Data Stack:** Developing data manipulation workflows with Python (Pandas) and structuring advanced SQL queries for database integration
+* **Languages:** Portuguese (Native) · English (Advanced)
 
 <br>
 
-<img src="https://i.pinimg.com/originals/1b/d1/df/1bd1dfc8b21c6cae4bc716673c2e2469.gif" alt="Banner Space" width="100%" style="border: 2px solid white; box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);">
+### Tech Stack
+
+**Languages & Data Manipulation**  
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+
+**Data Visualization & BI**  
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white"/>
+
+**Databases, Infrastructure & Tools**  
+<img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&amp;logo=SQLite&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+
+**Documentation**  
+<img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&amp;logo=latex&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white"/>
+
+<br>
+
+### GitHub Analytics
+
+| GitHub Stats | Top Languages |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusnajal&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnajal&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF) |
+
+<br>
+
+### Featured Projects
+
+| Project | Project |
+| --- | --- |
+| [![Data Science Challenges](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=data-science-challenges&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/data-science-challenges) | [![Simulador de Lente Gravitacional](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Simulador-de-Lente-Gravitacional&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Simulador-de-Lente-Gravitacional) |
+| [![Plataforma de Inteligência Comercial](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Plataforma-de-Inteligencia-Comercial&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Plataforma-de-Inteligencia-Comercial) | [![Plataforma Analítica de Potencial Solar](https://github-readme-stats.vercel.app/api/pin/?username=matheusnajal&repo=Plataforma-Analitica-de-Potencial-Solar&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF)](https://github.com/matheusnajal/Plataforma-Analitica-de-Potencial-Solar) |
+
+<br>
