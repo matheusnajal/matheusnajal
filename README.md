@@ -6,7 +6,7 @@
 
 Dedicated to Data Science and Analytics, with a strong focus on developing predictive models, performing exploratory analysis, and transforming raw data into strategic solutions.
 
-* **Education:** B.S. in Computer Science | MBA Candidate in Data Science & Analytics
+* **Education:** B.S. in Computer Science
 * **Focus:** Applying mathematical foundations and Artificial Intelligence to solve complex analytical problems
 * **Data Stack:** Developing data manipulation workflows with Python (Pandas) and structuring advanced SQL queries for database integration
 * **Languages:** Portuguese (Native) · English (Advanced)
