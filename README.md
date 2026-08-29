@@ -1,14 +1,17 @@
 <img src="https://i.pinimg.com/1200x/25/63/cf/2563cf26eb37a3148400e3c5f7fcc93a.jpg" alt="Banner Space" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=35&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=150&amp;lines=Hello!+I+am+Matheus;Data+Scientist+%26+Analyst;Transforming+data+into+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=35&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=150&amp;&lines=Hello!+I+am+Matheus;Data+Scientist+%26+Analyst;From+Data+to+Spacetime" />
 </p>
 
 Dedicated to Data Science and Analytics, with a strong focus on developing predictive models, performing exploratory analysis, and transforming raw data into strategic solutions.
 
+Currently building the data science foundation for a longer journey — transitioning from Computer Science into astrophysics, with formal physics studies starting next year, aiming toward the study of spacetime.
+
 * **Education:** B.S. in Computer Science
 * **Focus:** Applying mathematical foundations and Artificial Intelligence to solve complex analytical problems
 * **Data Stack:** Developing data manipulation workflows with Python (Pandas) and structuring advanced SQL queries for database integration
+* **Next Step:** Formal physics studies, en route to astrophysics and general relativity
 * **Languages:** Portuguese (Native) · English (Advanced)
 
 <br>
